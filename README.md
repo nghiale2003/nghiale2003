@@ -1,5 +1,6 @@
 # ![Welcome to My GitHub]
-![Cover](https://www.istockphoto.com/photo/abstract-big-data-gm1687097892-537165724?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fdata-visualization&utm_medium=affiliate&utm_source=unsplash&utm_term=data+visualization%3A%3Areduced-affiliates%3Aquarter)
+![istockphoto-1687097892-2048x2048](https://github.com/user-attachments/assets/1abdeb4c-ee18-4a43-b413-037fb7baa2cf)
+
 
 
 ## 👋 Hello, I'm Trọng Nghĩa!
