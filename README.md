@@ -22,6 +22,17 @@ I am actively seeking **Data Analyst** opportunities where I can contribute to m
     - Evaluated the effectiveness of Flash Sales programs and adjusted product pricing based on performance data.
     - Built dashboards to measure daily order volumes and dish popularity on Food Apps.
     - Collaborated with teams across Finance and Commercial departments to resolve discrepancies in COGS reports.
+ 
+      
+- ### Marketing Business Analyst - BE GROUP
+
+- **Designed and built** a dashboard to track Customer Lifetime Value (CLV), providing strategic recommendations for enhancing channel performance.  
+- **Reconciled** affiliate partner performance data based on validation rules, enabling accurate cost forecasting for customer payouts.  
+
+#### **Personal Development**  
+- **Optimized** dashboard data loading speed and restructured the dashboard to facilitate easy modification and addition of metrics.  
+- **Acquired** a strong understanding of core Digital Marketing concepts and the functionality of Mobile Measurement Platforms (MMP) such as AppsFlyer.  
+- **Enhanced** analytical skills to derive actionable insights from metrics by conducting detailed breakdowns and offering valuable perspectives.
 
 ---
 
